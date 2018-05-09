@@ -1,0 +1,2 @@
+INDEX VERSION 1.4+/home/mjunior/Alura/WorkSpace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1174338857.index
